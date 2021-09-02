@@ -32,10 +32,6 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray_mod1.sh)
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;V2ray多合一脚本 hostip验证去除版
-```
-bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray_mod2.sh)
-```
 【6】V2ray Go脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/goV2.sh)
